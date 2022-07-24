@@ -1,0 +1,1 @@
+alert(prompt("Enter Your message").slice(0,10));
